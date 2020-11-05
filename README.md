@@ -1,4 +1,4 @@
-# AI-1 HW1- kNN, Linear and Polynomial Regression
+# AI-1 HW1: kNN, Linear and Polynomial Regression
 Homework group members: Akash Reddy, Karthik Balaji.
 
 In this assignment, we have two different datasets, one with car data in Part 1 and another with data from an Indian matrimonial web site in Part 2.
